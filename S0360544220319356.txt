@@ -1,0 +1,10 @@
+P.J.C. Ribeiro, J.C.C. Henriques, F.J. Campuzano, L.M.C. Gato, A.F.O. Falcão,
+A new directional wave spectra characterization for offshore renewable energy applications,
+Energy,
+2020,
+118828,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2020.118828.
+(http://www.sciencedirect.com/science/article/pii/S0360544220319356)
+Abstract: The paper presents a new selection technique of wave spectra for the numerical simulation of offshore renewable energy (ORE) devices in the form of representative directional spectra, which conserves information about the distribution of wave energy along with frequency and direction classes. As a test case, an assessment of wave power resource for the Condor Submarine Mount (Azores Archipelago) is provided. The wave climate for this location was studied using the numerical model WAVEWATCH III for the period 2008-2018. Modelling results were compared with observations from four wave-buoys from the CLIMAAT project distributed around the Azores archipelago. Results indicated an annual averaged wave energy flux of 40.2 kW/m, with winter months providing more than eight times the energy that was observed during summer. The resultant nine representative spectra were used to further understand the wave climate in the region, including its seasonal variability. Compared to the traditional approach that employs simple Hm0−Tecombinations, this spectral strategy describes better the energy variability while allowing for more accurate numerical simulations of ORE devices.
+Keywords: Offshore renewable energy; wave energy assessment; wave energy density spectra; wave directional spectra; Azores archipelago
